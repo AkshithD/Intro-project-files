@@ -1,0 +1,7 @@
+6
+type:gas; name:civic; due:1000; length:3; monthly:295; mile/unit:34; allowance:1200;
+type:gas; length:12; due:1500; name:venza;  monthly:179; mile/unit:37; allowance:1000;
+mile/unit:30; type:gas; name:330i; due:1500;	length:36; allowance:1500;monthly:123;  
+due:1200;charger:300;name:LeafS;type:electric; monthly:153; length:24;	 mile/unit:3; allowance:1000; 
+type:electric; name:LeafSPlus; due:1500; length:36; monthly:180; mile/unit:4; allowance:2000; charger:20;
+name:Bolt; charger:500;due:1708;length:12;  type:electric;mile/unit:3.5; allowance:1000;monthly:292; 
